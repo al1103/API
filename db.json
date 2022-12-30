@@ -1,0 +1,1066 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "chube",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "image": "https://previews.dropbox.com/p/thumb/ABxaSeVUSqnLrbA9Xrr7S2mAr6StyZpHD6ND-ewg5mJPNBlSv0UVZopAfc2K3JgaWZFTSgYLyrAm6NEeEF2cTYih5BCASNZbIVRyPAFi53D8sxPHLgch8zWeMEPInhHYYOR1_4GtyYg7L2tAacWj2Va8Q342GLMLWQ5JerGWHc4Oc_m4FfB7GFn6_qMxLPQFOrGqcTk2YhfczTXHid7WCWmrZfvNKTt1QJWQAeh7qlJDDQoUuDT5yFZ25HXyyhs8XXkWPIwMyp44CiSn18Rj71CE2Wb5BYMDnaCDiZVsFQmpJJw0oKZnltqgcDMtklqS6vEesfDGuZtgirdYIzqmzTuSxlz4NLaYoFW5kDSfOwPJPQuWRjTcWZXWkTFMRImkh5o/p.png",
+      "name": "Astarte's War-Axe and Dagger",
+      "price": 450,
+      "priceSale": 420,
+      "discount": true,
+      "description": "description",
+      "numberStar": 4
+    },
+    {
+      "id": 2,
+      "image": "https://previews.dropbox.com/p/thumb/AByVr9xd1hm3FfzW9UmyjsvFw6KLmWoYUiOTvo7BlhXzRiAz95hzaW1Wge6s_xCiT6JcRK1Gl_4v34hszAquKNNi1FVkAHWi6aQ4bafX6TKyG0Re_6f9axRCJIGV6gIO_6JFJY5fyEtyNPP0O0d5iUfReuOFSpfiacltMmErx45jYRCqoXrpZheO763jWT8E3VApjr4Vivjeluzw-I2F3GW61rF4PEFgFzi-8C0KK-kpDU5MJ18ChUXZYZiemh2Is49iwShEGueF-QCJuoP0j2coFCJgqcFTC3_REyJR9mzBr6NnEMWJcGjqvm23Nzm4sz4l22VTEFJdtfJn_Tw2yEJ6L_tPavUy9A-yw_GPH9xUcuWNT0MSRQv41Whm3FVbzh4/p.png",
+      "name": "The Infinity Blade",
+      "price": 500,
+      "priceSale": 450,
+      "discount": true,
+      "description": "The Infinity Blade is the main catalyst of the Infinity Blade trilogy. It is a weapon created by Galath, the Worker of Secrets, to undo his invention of the Deathless. When used against one, it destabilises the opponents's QIP, therefore granting him or her a . It functions the same as the other Infinity Weapons. For the game, see Infinity Blade I. For the 'classic Infinity Blade' found in Infinity Blade III, see Infinity Blade. Obtaining the Infinity Blade in the first game requires",
+      "numberStar": 3
+    },
+    {
+      "id": 3,
+      "image": "https://previews.dropbox.com/p/thumb/ABzlFbsB6XOV5rOKc0jPqEtmVdTiRYPbTFWlG5GUIXbsckr2V-kT7CNblU0IPzFFEhyZoZVhuJza-kE28z0prOJKfxy4olRdSdbLbdL22T18QJGiDdbK6wswBjOjy9FaYn8Ik8vY6SxBdtJOzW6m_8MNB_NUX_1A8UpLeLsaGHoDqHYBg2D-K4WJdy8Bb3-Qu04XdmAIo4AOg5Kvkab2VIFMx0xM58whK-sFm0XabUST0mSMNsbGcYa5wLQQpCKxCwKEqt7o-7kX_1Arf5W4N00zbD_gKpatv_SguvdO2j6sTIitRnGX0bP4S-T9BScR0sECyPXNVjGavx0JSW9OrGHAUHcNK5GgnudEdZ5fxLNwUG3bx5UEqdlsw4bOeer1MGI/p.png",
+      "name": "Poison Sword",
+      "price": 490,
+      "priceSale": 400,
+      "discount": true,
+      "description": "Poison Sword by Edison MoodyHighly toxic naturally formed crystal cut into the shape of a blade. Over years the crystal begins to eat away at the wooden hilt and metal guard. Sculpted in Zbrush and textured in Substance Painter",
+      "numberStar": 5
+    },
+    {
+      "id": 4,
+      "image": "https://previews.dropbox.com/p/thumb/AByp-4FxEnOR4aMVjLbuH53fJQBGLa9zb8trhW5Eg4LbjcdZ00jjfy3LUrMfo35yYYgWL2K2SNJ_Pr99PtqRWC-O-AbfyBQ7SKRYIa0gd_0i2mINtvI4DHYtEiAH5lQYsUyyi2ZToWlg-AYadYVoAESQqVvMgIpEDUaOjSa28ymASX0ohqrXBOKWGdQx_e7J-OvGta5wGvzsKo4RmdZHlzwFVX5i-BoxfO5Tu49uKl1VPfSwFdme6-BFlFkRlhW3rOodsw_UAePXN6m4xjRYvIT3CMFfytSGwMsYXigAt4sXrBW3l53seB-PdbSl-ENHb_6YH25ffTXEnhndrzZYa-PlJyZVpnGtAbrxl-QTp80Sxg-L-pez3N6V6-SvvIOAz10/p.png",
+      "name": "ArtStation",
+      "price": 1120,
+      "priceSale": 1000,
+      "discount": true,
+      "description": "ArtStation is the leading showcase platform for games, film, media & entertainment artists.",
+      "numberStar": 4
+    },
+    {
+      "id": 5,
+      "image": "https://previews.dropbox.com/p/thumb/ABwcHx1kT7XsjQaqzDJIpVFn46iKQpcrxEt6ohQDEVW-hINbQkXlLlQaTDjGd4qNj2fok8Gz02sF89GCG7Xwo3nAp14auDITKfm_EPX5Z00uNrLlAIsFbNvcooWO9vHMKvYFRIKbUNNtoyj-NC_P1ZhTv8p8GEvY-B2paIVKl9u8Wc8UetHOHvrRfiH0SN8Rc9oAVTTQh3Vh-yswhcVsPUEfukO8r4TkFrh5a5C7hYVpZk3lCyL7t1mCr2gi0kBtZL8xjLYy3luqbjoMn9tfY216H4JvXarIVMGFqsNw3RqLbpBBZamKlsKxwPLFpoNFTaSkqCKxF4mUBg1BGgW8XkcgCjI4hvcCHG2E5YJgu3gLFLgzWxYQ6MCoDmCdycuhjy8/p.png",
+      "name": "Kusari Gama",
+      "price": 2000,
+      "priceSale": 1800,
+      "discount": true,
+      "description": "A kusari-gama or scythe (鎖鎌) is an ancient Japanese martial art weapon developed from a farm implement, one end of which is a scythe for mowing grass connected to the other end by a mace by a chain. Iron. In Japanese, 'kusari' means chain, and 'kama' or 'gama' (suffix) means scythe.",
+      "numberStar": 1
+    },
+    {
+      "id": 6,
+      "image": "https://previews.dropbox.com/p/thumb/ABzjrcLIgEXmAAlylSEsegTg1nhyCb2nugJpBLZNk4DhmqHwpKTx2S_TwrHCnFF_02CJ0Ot66ZlubocHJ4KhAJznz6C_3INjr9itERX2jUmsjxunorrdQXKjiqAbuOOGttMa8-ESclCQQ6gqX1Jn86OnIPiR_YwZawFDtIiffqzYvcQxgMLHpc2nesWRYn83qWpqsVktW_IyhTF6I4h6xFCMKyctV1W3L8ZlQRKn1-wqyZoWZjpVLEGdj-yosiXe96IaB1N-sgwbNY0s4OMky6zIuurjxzLSivEqrUJs4hPgFyGU6dqZskD0I38tD453zRqaB-XJzZc6uZjj1ym4_omkTp66_x-U7XVlJhnwsK2kNL0kgsSTtp_QAafp1oumc7E/p.png",
+      "name": " ",
+      "price": 900,
+      "priceSale": 820,
+      "discount": true,
+      "description": "An ax is an item that has been used for thousands of years, used to cut trees for wood or as a weapon. Axes come in many styles, but mainly consist of blades attached to the handle. The first axes were made from stone, later made of bronze, bronze, iron, and steel",
+      "numberStar": 5
+    },
+    {
+      "id": 7,
+      "image": "https://previews.dropbox.com/p/thumb/ABy-z31ASK0tNy4DibQ4SB6rjNUrlglNy8jvhCHddT7-W37_eM9HggZ9UPP4SGn-Ije-YT6MKxHINcmF7Rbhhlo7wbkxjpqXCX2EDvKUR3fPqX6acU_Zi3x0JT5ArHjEZWvZDfslkaGozdarSUTqfkDpx_2m9DM40QnEyXsoEmjbIr1Hgt5JbIHBdzjbzz0zEuqgrUjlL-b3thMkPuHjCg6DYMU1BV_9PLOd8A-9f5NmFcVQ-hW7qHtuWGDGeKWngqh0U-sG5VWs_Z3CmTE-SvA-S66O0KvdJHoBjonCAkhyxvnkIT1o2HznDJJ4sMPfzIkEUZtnJOt5EWGvTm7K7_iUzZUBk2aJOz0H8TSgO0CJPcg-HDU7khArgbXphqmCVdw/p.png",
+      "name": "Magic Hammer",
+      "price": 1120,
+      "priceSale": 90,
+      "discount": true,
+      "description": "ArtStation is the leading showcase platform for games, film, media & entertainment artists.",
+      "numberStar": 5
+    },
+    {
+      "id": 8,
+      "image": "https://previews.dropbox.com/p/thumb/ABzImxDDVa_-iLyIgOBZ1sQ30M3vjUUNN-TPXHwak-34HwUjhcJpxHEE_RbSSU4tlzMRg7K5IvumZLoZOi7mvm-frjZuluKlTn6Op3S8UiEcN4bHmYryMjW8bJMutpMZ7eb66g229BkIrVB9nUy6vBRoL92dhohbpHTo_QnLDve1n4uivp-ofA3Op576AyXz6h3rID49xytea30RJz8vPPG5bLPtR0CZdVLLdwMnv5P5wl9oi0xXYDn1op9erZWR97s4vk0VkC_TeAipoDLjq9SWgu9HsXTKkGJBKgkkw88cWa1Yq1if-8C_cofyGP7hp3bqG96XUXCsc0HK7_rZWVgbgqg1YEDMleQYeLQVM6uPBHgi_6PQP3I2ErWdqlrorxs/p.png",
+      "name": "Black Ops Rifle",
+      "price": 800,
+      "priceSale": 750,
+      "discount": true,
+      "description": "Poison Sword by Edison MoodyHighly toxic naturally formed crystal cut into the shape of a blade. Over years the crystal begins to eat away at the wooden hilt and metal guard. Sculpted in Zbrush and textured in Substance Painter",
+      "numberStar": 4
+    },
+    {
+      "id": 9,
+      "image": "https://previews.dropbox.com/p/thumb/ABwKr6obqfKRW0u1SbnrB7swWMhBdilwS0iHrs_MVGbWjfBZxWWn5fxYmtvNkdTITH0ZH2oRMo3LvT3vF5w0bwPLJx1cdTRu0NLUP4W5EWH7p7DcRIWE8f2G45t5phlsfppzzAJzm_jvLs2-gDJJn5odUfj04hvNp7AN-pxe9GyRCl-ktbrl8V-6HFuGtT6WrfAb3JoiacMcSj3hCqK4D1nPO4eEKs-12ECEYyjOvaF9vGh52ZpN01ruewquUJBGWe0YdNqyk_d_TTGeUthn7Kw7srzYnv_PURzOIDVzLg9GjgTSMD0idnfJRmTLkjLm7SFM29EzBVvn21p4jWtageoi32703wrQuEADI5AHBIk8ZzA2SnZ7xbEwA0i7bXboNGQ/p.png",
+      "name": "United Cutlery Gil Hibben's Karambit",
+      "price": 650,
+      "priceSale": 450,
+      "discount": true,
+      "description": "Looking for the United Cutlery Gil Hibben's Karambit? The 9 1/4 karambit is constructed of 5Cr15MoV 5 3/8stainless steel blade and has a handle that features black linen Micarta scales and nickel pins. A premium black leather sheath with the Hibben Knives logo completes the package.",
+      "numberStar": 5
+    },
+    {
+      "id": 10,
+      "image": "https://previews.dropbox.com/p/thumb/ABxE9iYdPErFkVVogzzpX5vgm2UbFedHR8QKk5HDvhRyYxhoUZKitQkM_BrHO9-_CORvBI6hntnqS5ldwz2HSBzLwDuLhy_yXmlfRqxbpAIlaecPcOP3cESJWfg7-sAqm6YSNXPwlBzXvTIjTd5enpJv8YWWkzs5EjvWOSkzHu3htusPU5o73pivGqQqZK5zLgYA4hDrC4JtaCwfDw_PLMETCJmy3-0KBMKbsf41LFwH7R7AelQDFxOnwK_zOpkDTpzjQolXbnyOaGcovamrsK_BRY2OGihJEMJ-40LYMS8F7orD15prvYj4p_Z_OkagaX3_GrJj3DW0CPsgJkjDKI65Gtob5htmbveYPUWWDRB8a0xbt1B1kxiQ6_cRLpAAOsU/p.png",
+      "name": "shuriken ",
+      "price": 1200,
+      "priceSale": 1200,
+      "discount": false,
+      "description": "A Shuriken (Japanese 手裏剣; Sword of the Dead) is a Japanese hidden weapon used as a secret weapon or as a tool to distract enemies. Contrary to misconceptions, the fact that shuriken is not poisoned",
+      "numberStar": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "chube",
+      "email": "chube@gmail.com"
+    },
+    {
+      "firstname": "zilong",
+      "lastname": "zhou",
+      "email": "phamtuan72az@gmail.com",
+      "password": "YPg65$5QviaEMzZ",
+      "confirmPassword": "YPg65$5QviaEMzZ",
+      "rules": true,
+      "id": 2
+    },
+    {
+      "firstname": "dqwedew",
+      "lastname": "fdwef",
+      "email": "phamtgegferuan72az@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "rules": true,
+      "id": 3
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 4
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 5
+    },
+    {
+      "email": "phamttuan@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 6
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 7
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 8
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 9
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 10
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 11
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 12
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 13
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 14
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 15
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 16
+    },
+    {
+      "email": "phamtuan72az@gmail.com",
+      "password": "M@b@-c6C%g3X+x2",
+      "id": 17
+    }
+  ],
+  "armor": [
+    {
+      "id": 1,
+      "name": "Áo giáp cánh tay",
+      "description": "Áo giáp cánh tay là một loại áo giáp chiến đấu có cánh tay rộng, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "2500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay.jpg",
+      "category": "áo giáp",
+      "sale": "2000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Áo giáp ngực",
+      "description": "Áo giáp ngực là một loại áo giáp chiến đấu có ngực rộng, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "3000",
+      "image": "https://www.example.com/image/ao-giap-nguc.jpg",
+      "category": "áo giáp",
+      "sale": "2500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.7,
+        "count": 15
+      }
+    },
+    {
+      "id": 3,
+      "name": "Áo giáp cánh tay và ngực",
+      "description": "Áo giáp cánh tay và ngực là một loại áo giáp chiến đấu có cánh tay và ngực bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "6500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-va-nguc.jpg",
+      "category": "áo giáp",
+      "sale": "6000",
+      "quantity": 35,
+      "rating": {
+        "rate": 4.6,
+        "count": 40
+      }
+    },
+    {
+      "id": 4,
+      "name": "Áo giáp đầu và cổ",
+      "description": "Áo giáp đầu và cổ là một loại áo giáp chiến đấu có đầu và cổ bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "4000",
+      "image": "https://www.example.com/image/ao-giap-dau-va-co.jpg",
+      "category": "áo giáp",
+      "sale": "3500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 5,
+      "name": "Áo giáp cánh tay, ngực và đầu cổ",
+      "description": "Áo giáp cánh tay, ngực và đầu cổ là một loại áo giáp chiến đấu có cánh tay, ngực và đầu cổ bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "4500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-nguc-va-dau-co.jpg",
+      "category": "áo giáp",
+      "sale": "4000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.9,
+        "count": 25
+      }
+    },
+
+    {
+      "id": 6,
+      "name": "Áo giáp lưng",
+      "description": "Áo giáp lưng là một loại áo giáp chiến đấu có lưng bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/ao-giap-lung.jpg",
+      "category": "áo giáp",
+      "sale": "4500",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": 7,
+      "name": "Áo giáp cánh tay và đầu cổ",
+      "description": "Áo giáp cánh tay và đầu cổ là một loại áo giáp chiến đấu có cánh tay và đầu cổ bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "5500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-va-dau-co.jpg",
+      "category": "áo giáp",
+      "sale": "5000",
+      "quantity": 30,
+      "rating": {
+        "rate": 4.5,
+        "count": 35
+      }
+    },
+    {
+      "id": 8,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ và lưng",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ và lưng là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ và lưng bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "5500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-nguc-dau-co-va-lung.jpg",
+      "category": "áo giáp",
+      "sale": "5000",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.8,
+        "count": 35
+      }
+    },
+    {
+      "id": 9,
+      "name": "Áo giáp bụng",
+      "description": "Áo giáp bụng là một loại áo giáp chiến đấu có bụng bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "6000",
+      "image": "https://www.example.com/image/ao-giap-bung.jpg",
+      "category": "áo giáp",
+      "sale": "5500",
+      "quantity": 30,
+      "rating": {
+        "rate": 4.9,
+        "count": 40
+      }
+    },
+    {
+      "id": 10,
+      "name": "Áo giáp chân",
+      "description": "Áo giáp chân là một loại áo giáp chiến đấu có chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "6500",
+      "image": "https://www.example.com/image/ao-giap-chan.jpg",
+      "category": "áo giáp",
+      "sale": "6000",
+      "quantity": 35,
+      "rating": {
+        "rate": 4.7,
+        "count": 45
+      }
+    },
+    {
+      "id": 11,
+      "name": "Áo giáp đầu cổ và chân",
+      "description": "Áo giáp đầu cổ và chân là một loại áo giáp chiến đấu có đầu cổ và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "7000",
+      "image": "https://www.example.com/image/ao-giap-dau-co-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "6500",
+      "quantity": 40,
+      "rating": {
+        "rate": 4.8,
+        "count": 50
+      }
+    },
+    {
+      "id": 12,
+      "name": "Áo giáp cánh tay và chân",
+      "description": "Áo giáp cánh tay và chân là một loại áo giáp chiến đấu có cánh tay và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "7500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "7000",
+      "quantity": 40,
+      "rating": {
+        "rate": 4.8,
+        "count": 45
+      }
+    },
+    {
+      "id": 13,
+      "name": "Áo giáp ngực và chân",
+      "description": "Áo giáp ngực và chân là một loại áo giáp chiến đấu có ngực và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "8000",
+      "image": "https://www.example.com/image/ao-giap-nguc-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "7500",
+      "quantity": 45,
+      "rating": {
+        "rate": 4.9,
+        "count": 55
+      }
+    },
+    {
+      "id": 14,
+      "name": "Áo giáp cánh tay, ngực và chân",
+      "description": "Áo giáp cánh tay, ngực và chân là một loại áo giáp chiến đấu có cánh tay, ngực và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "8500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-nguc-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "8000",
+      "quantity": 45,
+      "rating": {
+        "rate": 4.9,
+        "count": 50
+      }
+    },
+    {
+      "id": 15,
+      "name": "Áo giáp đầu cổ, ngực và chân",
+      "description": "Áo giáp đầu cổ, ngực và chân là một loại áo giáp chiến đấu có đầu cổ, ngực và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "9000",
+      "image": "https://www.example.com/image/ao-giap-dau-co-nguc-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "8500",
+      "quantity": 50,
+      "rating": {
+        "rate": 4.7,
+        "count": 60
+      }
+    },
+    {
+      "id": 16,
+      "name": "Áo giáp cánh tay, đầu cổ và chân",
+      "description": "Áo giáp cánh tay, đầu cổ và chân là một loại áo giáp chiến đấu có cánh tay, đầu cổ và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "9500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-dau-co-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "9000",
+      "quantity": 55,
+      "rating": {
+        "rate": 4.8,
+        "count": 65
+      }
+    },
+    {
+      "id": 17,
+      "name": "Áo giáp ngực, đầu cổ, lưng và chân",
+      "description": "Áo giáp ngực, đầu cổ, lưng và chân là một loại áo giáp chiến đấu có ngực, đầu cổ, lưng và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "9000",
+      "image": "https://www.example.com/image/ao-giap-nguc-dau-co-lung-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "8500",
+      "quantity": 55,
+      "rating": {
+        "rate": 4.8,
+        "count": 65
+      }
+    },
+    {
+      "id": 18,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ và chân",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ và chân là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-nguc-dau-co-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "9500",
+      "quantity": 60,
+      "rating": {
+        "rate": 4.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 19,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ, lưng và chân",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ, lưng và chân là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ, lưng và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-nguc-dau-co-lung-va-chan.jpg",
+      "category": "áo giáp",
+      "sale": "9500",
+      "quantity": 60,
+      "rating": {
+        "rate": 4.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 20,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ, lưng, chân và tay",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ, lưng, chân và tay là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ, lưng, chân và tay bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "10500",
+      "image": "https://www.example.com/image/ao-giap-canh-tay-nguc-dau-co-lung-chan-va-tay.jpg",
+      "category": "áo giáp",
+      "sale": "10000",
+      "quantity": 65,
+      "rating": {
+        "rate": 4.7,
+        "count": 75
+      }
+    }
+  ],
+  "spear": [
+    {
+      "id": 1,
+      "name": "Giáo hoàng kim",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-hoang-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Giáo bạch kim",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-bach-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 4,
+      "name": "Giáo bạch kim",
+      "description": "Giáo bach kim có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "9876",
+      "image": "https://www.example.com/image/giao-bach-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 6,
+      "name": "Giáo đen",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-den.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 7,
+      "name": "Giáo đỏ",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-do.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 8,
+      "name": "Giáo vàng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-vang.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 9,
+      "name": "Giáo địa chấn",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-dia-chan.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+
+    {
+      "id": 10,
+      "name": "Giáo thần",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-than.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 11,
+      "name": "Giáo đất",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-dat.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 12,
+      "name": "Giáo trời",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-troi.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 13,
+      "name": "Giáo hỏa",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-hoa.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4,
+        "count": 20
+      }
+    },
+    {
+      "id": 14,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 15,
+      "name": "Giáo thiên",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-thien.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 16,
+      "name": "Giáo tinh",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-tinh.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 17,
+      "name": "Giáo không",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2000",
+      "image": "https://www.example.com/image/giao-khong.jpg",
+      "category": "giáo chiến",
+      "sale": "2500",
+      "quantity": 8,
+      "rating": {
+        "rate": 4.3,
+        "count": 10
+      }
+    },
+    {
+      "id": 18,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi ngắn và dày, phù hợp cho các hoạt động tập luyện kungfu và phòng thủ.",
+      "price": "1300",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "1500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.5,
+        "count": 15
+      }
+    },
+    {
+      "id": 19,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "4987",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "7000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 20,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    }
+  ],
+  "hammer": [
+    {
+      "id": 1,
+      "name": "Giáo hoàng kim",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-hoang-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Giáo bạch kim",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-bach-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 4,
+      "name": "Giáo bạch kim",
+      "description": "Giáo bach kim có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "9876",
+      "image": "https://www.example.com/image/giao-bach-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 5,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 6,
+      "name": "Giáo đen",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-den.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 7,
+      "name": "Giáo đỏ",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-do.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 8,
+      "name": "Giáo vàng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-vang.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 9,
+      "name": "Giáo địa chấn",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-dia-chan.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+
+    {
+      "id": 10,
+      "name": "Giáo thần",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-than.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 11,
+      "name": "Giáo đất",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-dat.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 12,
+      "name": "Giáo trời",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-troi.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 13,
+      "name": "Giáo hỏa",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-hoa.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4,
+        "count": 20
+      }
+    },
+    {
+      "id": 14,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 15,
+      "name": "Giáo thiên",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-thien.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 16,
+      "name": "Giáo tinh",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-tinh.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 17,
+      "name": "Giáo không",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2000",
+      "image": "https://www.example.com/image/giao-khong.jpg",
+      "category": "giáo chiến",
+      "sale": "2500",
+      "quantity": 8,
+      "rating": {
+        "rate": 4.3,
+        "count": 10
+      }
+    },
+    {
+      "id": 18,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi ngắn và dày, phù hợp cho các hoạt động tập luyện kungfu và phòng thủ.",
+      "price": "1300",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "1500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.5,
+        "count": 15
+      }
+    },
+    {
+      "id": 19,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "4987",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "7000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 20,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    }
+  ]
+}
