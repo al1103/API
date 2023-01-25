@@ -1691,6 +1691,1490 @@
       }
     }
   ],
+  "Search":[
+    {
+      "id": 1,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/ArtStation%20-%20Explore_clipdrop-background-removal.png?raw=true",
+      "name": "Astarte's War-Axe and Dagger",
+      "price": 450,
+      "priceSale": 420,
+      "discount": true,
+      "description": "description",
+      "numberStar": 4
+    },
+    {
+      "id": 2,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/Astarte's%20War-Axe%20and%20Dagger%20-%20Current%20price_%20$450_clipdrop-background-removal.png?raw=true",
+      "name": "The Infinity Blade",
+      "price": 500,
+      "priceSale": 450,
+      "discount": true,
+      "description": "The Infinity Blade is the main catalyst of the Infinity Blade trilogy. It is a weapon created by Galath, the Worker of Secrets, to undo his invention of the Deathless. When used against one, it destabilises the opponents's QIP, therefore granting him or her a . It functions the same as the other Infinity Weapons. For the game, see Infinity Blade I. For the 'classic Infinity Blade' found in Infinity Blade III, see Infinity Blade. Obtaining the Infinity Blade in the first game requires",
+      "numberStar": 3
+    },
+    {
+      "id": 3,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/Black%20Ops%20Rifle%20IPhone%20Wallpaper%20HD%20-%20IPhone%20Wallpapers_clipdrop-background-removal.png?raw=true",
+      "name": "Poison Sword",
+      "price": 490,
+      "priceSale": 400,
+      "discount": true,
+      "description": "Poison Sword by Edison MoodyHighly toxic naturally formed crystal cut into the shape of a blade. Over years the crystal begins to eat away at the wooden hilt and metal guard. Sculpted in Zbrush and textured in Substance Painter",
+      "numberStar": 5
+    },
+    {
+      "id": 4,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/Poison%20Sword,%20Edison%20Moody_clipdrop-background-removal.png?raw=true",
+      "name": "ArtStation",
+      "price": 1120,
+      "priceSale": 1000,
+      "discount": true,
+      "description": "ArtStation is the leading showcase platform for games, film, media & entertainment artists.",
+      "numberStar": 4
+    },
+    {
+      "id": 5,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/Spark621%20on%20Twitter_clipdrop-background-removal.png?raw=true",
+      "name": "Kusari Gama",
+      "price": 2000,
+      "priceSale": 1800,
+      "discount": true,
+      "description": "A kusari-gama or scythe (鎖鎌) is an ancient Japanese martial art weapon developed from a farm implement, one end of which is a scythe for mowing grass connected to the other end by a mace by a chain. Iron. In Japanese, 'kusari' means chain, and 'kama' or 'gama' (suffix) means scythe.",
+      "numberStar": 1
+    },
+    {
+      "id": 6,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/The%20Infinity%20Blade_clipdrop-background-removal.png?raw=true",
+      "name": " ",
+      "price": 900,
+      "priceSale": 820,
+      "discount": true,
+      "description": "An ax is an item that has been used for thousands of years, used to cut trees for wood or as a weapon. Axes come in many styles, but mainly consist of blades attached to the handle. The first axes were made from stone, later made of bronze, bronze, iron, and steel",
+      "numberStar": 5
+    },
+    {
+      "id": 7,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/V%C5%A9%20kh%C3%AD_clipdrop-background-removal.png?raw=true",
+      "name": "Magic Hammer",
+      "price": 1120,
+      "priceSale": 90,
+      "discount": true,
+      "description": "ArtStation is the leading showcase platform for games, film, media & entertainment artists.",
+      "numberStar": 5
+    },
+    {
+      "id": 8,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/Wit's%20End_clipdrop-background-removal.png?raw=true",
+      "name": "Black Ops Rifle",
+      "price": 800,
+      "priceSale": 750,
+      "discount": true,
+      "description": "Poison Sword by Edison MoodyHighly toxic naturally formed crystal cut into the shape of a blade. Over years the crystal begins to eat away at the wooden hilt and metal guard. Sculpted in Zbrush and textured in Substance Painter",
+      "numberStar": 4
+    },
+    {
+      "id": 9,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/download%20(2)_clipdrop-background-removal.png?raw=true",
+      "name": "United Cutlery Gil Hibben's Karambit",
+      "price": 650,
+      "priceSale": 450,
+      "discount": true,
+      "description": "Looking for the United Cutlery Gil Hibben's Karambit? The 9 1/4 karambit is constructed of 5Cr15MoV 5 3/8stainless steel blade and has a handle that features black linen Micarta scales and nickel pins. A premium black leather sheath with the Hibben Knives logo completes the package.",
+      "numberStar": 5
+    },
+    {
+      "id": 10,
+      "image": "https://github.com/al1103/-/blob/main/sale/sale/image_clipdrop-background-removal.png?raw=true",
+      "name": "shuriken ",
+      "price": 1200,
+      "priceSale": 1200,
+      "discount": false,
+      "description": "A Shuriken (Japanese 手裏剣; Sword of the Dead) is a Japanese hidden weapon used as a secret weapon or as a tool to distract enemies. Contrary to misconceptions, the fact that shuriken is not poisoned",
+      "numberStar": 5
+    }
+  ,
+    {
+      "id": 11,
+      "name": "Áo giáp cánh tay",
+      "description": "Áo giáp cánh tay là một loại áo giáp chiến đấu có cánh tay rộng, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Arena%20Knight,%20Liviu%20Antonescu.png?raw=true",
+      "category": "áo giáp",
+      "sale": "2000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 12,
+      "name": "Áo giáp ngực",
+      "description": "Áo giáp ngực là một loại áo giáp chiến đấu có ngực rộng, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "3000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Armadura%20de%20Placas.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "2500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.7,
+        "count": 15
+      }
+    },
+    {
+      "id": 13,
+      "name": "Áo giáp cánh tay và ngực",
+      "description": "Áo giáp cánh tay và ngực là một loại áo giáp chiến đấu có cánh tay và ngực bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "6500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Armor%238%20by%20lalanice%20on%20DeviantArt.png?raw=true",
+      "category": "áo giáp",
+      "sale": "6000",
+      "quantity": 35,
+      "rating": {
+        "rate": 4.6,
+        "count": 40
+      }
+    },
+    {
+      "id": 14,
+      "name": "Áo giáp đầu và cổ",
+      "description": "Áo giáp đầu và cổ là một loại áo giáp chiến đấu có đầu và cổ bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "4000",
+      "image": "https://github.com/al1103/-/blob/main/giap/ArtStation%20-%20Explore.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "3500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 15,
+      "name": "Áo giáp cánh tay, ngực và đầu cổ",
+      "description": "Áo giáp cánh tay, ngực và đầu cổ là một loại áo giáp chiến đấu có cánh tay, ngực và đầu cổ bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "4500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Centurion%20Armor,%20Saumeel%20Sondur.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "4000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.9,
+        "count": 25
+      }
+    },
+
+    {
+      "id": 16,
+      "name": "Áo giáp lưng",
+      "description": "Áo giáp lưng là một loại áo giáp chiến đấu có lưng bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "5000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Ghost%20of%20Tsushima%20_%20HD%20Wallpaper.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "4500",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": 17,
+      "name": "Áo giáp cánh tay và đầu cổ",
+      "description": "Áo giáp cánh tay và đầu cổ là một loại áo giáp chiến đấu có cánh tay và đầu cổ bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "5500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Karuna's%20armor%20by%20Chant-des-Louves%20on%20DeviantArt.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "5000",
+      "quantity": 30,
+      "rating": {
+        "rate": 4.5,
+        "count": 35
+      }
+    },
+    {
+      "id": 18,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ và lưng",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ và lưng là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ và lưng bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "5500",
+      "image": "https://github.com/al1103/-/blob/main/giap/LARP-elicious.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "5000",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.8,
+        "count": 35
+      }
+    },
+    {
+      "id": 19,
+      "name": "Áo giáp bụng",
+      "description": "Áo giáp bụng là một loại áo giáp chiến đấu có bụng bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "6000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Lion%20heart%20Armor,%20Ed%20Pantera.png?raw=true",
+      "category": "áo giáp",
+      "sale": "5500",
+      "quantity": 30,
+      "rating": {
+        "rate": 4.9,
+        "count": 40
+      }
+    },
+    {
+      "id": 20,
+      "name": "Áo giáp chân",
+      "description": "Áo giáp chân là một loại áo giáp chiến đấu có chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "6500",
+      "image": "https://github.com/al1103/-/blob/main/giap/OneLungLewis%20-%20Sketchbook.png?raw=true",
+      "category": "áo giáp",
+      "sale": "6000",
+      "quantity": 35,
+      "rating": {
+        "rate": 4.7,
+        "count": 45
+      }
+    },
+    {
+      "id": 21,
+      "name": "Áo giáp đầu cổ và chân",
+      "description": "Áo giáp đầu cổ và chân là một loại áo giáp chiến đấu có đầu cổ và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "7000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Nordic%20Carved%20Armor%20(Armor%20Piece).png?raw=true",
+      "category": "áo giáp",
+      "sale": "6500",
+      "quantity": 40,
+      "rating": {
+        "rate": 4.8,
+        "count": 50
+      }
+    },
+    {
+      "id": 22,
+      "name": "Áo giáp cánh tay và chân",
+      "description": "Áo giáp cánh tay và chân là một loại áo giáp chiến đấu có cánh tay và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "7500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Ryse%20son%20of%20Rome,%20Concept%20Roman%20Legion%20Torso%20Armor.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "7000",
+      "quantity": 40,
+      "rating": {
+        "rate": 4.8,
+        "count": 45
+      }
+    },
+    {
+      "id": 23,
+      "name": "Áo giáp ngực và chân",
+      "description": "Áo giáp ngực và chân là một loại áo giáp chiến đấu có ngực và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "8000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Samurai%20Armor.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "7500",
+      "quantity": 45,
+      "rating": {
+        "rate": 4.9,
+        "count": 55
+      }
+    },
+    {
+      "id": 24,
+      "name": "Áo giáp cánh tay, ngực và chân",
+      "description": "Áo giáp cánh tay, ngực và chân là một loại áo giáp chiến đấu có cánh tay, ngực và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "8500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Samurai%20Leather%20Armor%20-%20Full%20Set%20-%20Black.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "8000",
+      "quantity": 45,
+      "rating": {
+        "rate": 4.9,
+        "count": 50
+      }
+    },
+    {
+      "id": 25,
+      "name": "Áo giáp đầu cổ, ngực và chân",
+      "description": "Áo giáp đầu cổ, ngực và chân là một loại áo giáp chiến đấu có đầu cổ, ngực và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "9000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Shop%20-%20Kult%20of%20Athena.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "8500",
+      "quantity": 50,
+      "rating": {
+        "rate": 4.7,
+        "count": 60
+      }
+    },
+    {
+      "id": 26,
+      "name": "Áo giáp cánh tay, đầu cổ và chân",
+      "description": "Áo giáp cánh tay, đầu cổ và chân là một loại áo giáp chiến đấu có cánh tay, đầu cổ và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "9500",
+      "image": "https://github.com/al1103/-/blob/main/giap/Steel%20Plate%20Armor%20(Armor%20Piece).png?raw=true",
+      "category": "áo giáp",
+      "sale": "9000",
+      "quantity": 55,
+      "rating": {
+        "rate": 4.8,
+        "count": 65
+      }
+    },
+    {
+      "id": 27,
+      "name": "Áo giáp ngực, đầu cổ, lưng và chân",
+      "description": "Áo giáp ngực, đầu cổ, lưng và chân là một loại áo giáp chiến đấu có ngực, đầu cổ, lưng và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "9000",
+      "image": "https://github.com/al1103/-/blob/main/giap/Suit%20Up%20With%20This%20MAN%20OF%20STEEL-Inspired%20Medieval%20Armor%20%E2%80%94%20GeekTyrant.jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "8500",
+      "quantity": 55,
+      "rating": {
+        "rate": 4.8,
+        "count": 65
+      }
+    },
+    {
+      "id": 28,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ và chân",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ và chân là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "10000",
+      "image": "https://github.com/al1103/-/blob/main/giap/download%20(2).jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "9500",
+      "quantity": 60,
+      "rating": {
+        "rate": 4.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 29,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ, lưng và chân",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ, lưng và chân là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ, lưng và chân bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "10000",
+      "image": "https://github.com/al1103/-/blob/main/giap/download%20(4).jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "9500",
+      "quantity": 60,
+      "rating": {
+        "rate": 4.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 30,
+      "name": "Áo giáp cánh tay, ngực, đầu cổ, lưng, chân và tay",
+      "description": "Áo giáp cánh tay, ngực, đầu cổ, lưng, chân và tay là một loại áo giáp chiến đấu có cánh tay, ngực, đầu cổ, lưng, chân và tay bảo vệ, phù hợp cho các hoạt động tập luyện vũ khí và phòng thủ.",
+      "price": "10500",
+      "image": "https://github.com/al1103/-/blob/main/giap/download%20(5).jpg?raw=true",
+      "category": "áo giáp",
+      "sale": "10000",
+      "quantity": 65,
+      "rating": {
+        "rate": 4.7,
+        "count": 75
+      }
+    }
+,
+
+    {
+      "id": 31,
+      "name": "Giáo hoàng kim",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/download_clipdrop-background-removal.png?raw=true",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 32,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 33,
+      "name": "Giáo bạch kim",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-bach-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 34,
+      "name": "Giáo bạch kim",
+      "description": "Giáo bach kim có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "9876",
+      "image": "https://www.example.com/image/giao-bach-kim.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 35,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 36,
+      "name": "Giáo đen",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-den.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 37,
+      "name": "Giáo đỏ",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-do.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 38,
+      "name": "Giáo vàng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-vang.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 39,
+      "name": "Giáo địa chấn",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-dia-chan.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+
+    {
+      "id": 40,
+      "name": "Giáo thần",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-than.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 41,
+      "name": "Giáo đất",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-dat.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 42,
+      "name": "Giáo trời",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-troi.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 43,
+      "name": "Giáo hỏa",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-hoa.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4,
+        "count": 20
+      }
+    },
+    {
+      "id": 44,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 45,
+      "name": "Giáo thiên",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://www.example.com/image/giao-thien.jpg",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 46,
+      "name": "Giáo tinh",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://www.example.com/image/giao-tinh.jpg",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 47,
+      "name": "Giáo không",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2000",
+      "image": "https://www.example.com/image/giao-khong.jpg",
+      "category": "giáo chiến",
+      "sale": "2500",
+      "quantity": 8,
+      "rating": {
+        "rate": 4.3,
+        "count": 10
+      }
+    },
+    {
+      "id": 48,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi ngắn và dày, phù hợp cho các hoạt động tập luyện kungfu và phòng thủ.",
+      "price": "1300",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "1500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.5,
+        "count": 15
+      }
+    },
+    {
+      "id": 49,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "4987",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "7000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 50,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    }
+  ,
+    {
+      "id": 51,
+      "name": "Giáo hoàng kim",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/Asmira's%20Spear%20by%20Aikurisu%20on%20DeviantArt.jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 52,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/Faux%20Bone%20Tip%2057%20Inch%20Spear.jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 53,
+      "name": "Giáo bạch kim",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/Favonius%20Lance.png?raw=true",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 54,
+      "name": "Giáo bạch kim",
+      "description": "Giáo bach kim có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "9876",
+      "image": "https://github.com/al1103/-/blob/main/thuong/Final%20Fantasy%20XV%20weapons.png?raw=true",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 55,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/LINc431%20-%20Professional,%20Digital%20Artist%20_%20DeviantArt.jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 56,
+      "name": "Giáo đen",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/Spartan%20Costume%20Spear%20Accessory%2060%20Inch.jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 57,
+      "name": "Giáo đỏ",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/Spear%20,%20Gabriele%20Langerame.jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 58,
+      "name": "Giáo vàng",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/The%20Children's%20Of%20The%20Seven%20Deadly%20Sins%20(new%20Generation).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 59,
+      "name": "Giáo địa chấn",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/_Valkyreevees_%20weapons%20by%20Zach%20Fischer.png?raw=true",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+
+    {
+      "id": 60,
+      "name": "Giáo thần",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(10).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 61,
+      "name": "Giáo đất",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(3).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 62,
+      "name": "Giáo trời",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(4).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 63,
+      "name": "Giáo hỏa",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(5).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4,
+        "count": 20
+      }
+    },
+    {
+      "id": 64,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "5000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(6).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "6000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    },
+    {
+      "id": 65,
+      "name": "Giáo thiên",
+      "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
+      "price": "7500",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(8).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "9000",
+      "quantity": 14,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 66,
+      "name": "Giáo tinh",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "10000",
+      "image": "https://github.com/al1103/-/blob/main/thuong/download%20(9).jpg?raw=true",
+      "category": "giáo chiến",
+      "sale": "12000",
+      "quantity": 16,
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": 67,
+      "name": "Giáo không",
+      "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2000",
+      "image": "https://www.example.com/image/giao-khong.jpg",
+      "category": "giáo chiến",
+      "sale": "2500",
+      "quantity": 8,
+      "rating": {
+        "rate": 4.3,
+        "count": 10
+      }
+    },
+    {
+      "id": 68,
+      "name": "Giáo đồng",
+      "description": "Giáo có lưỡi ngắn và dày, phù hợp cho các hoạt động tập luyện kungfu và phòng thủ.",
+      "price": "1300",
+      "image": "https://www.example.com/image/giao-dong.jpg",
+      "category": "giáo chiến",
+      "sale": "1500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.5,
+        "count": 15
+      }
+    },
+    {
+      "id": 69,
+      "name": "Giáo bạc",
+      "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
+      "price": "4987",
+      "image": "https://www.example.com/image/giao-bac.jpg",
+      "category": "giáo chiến",
+      "sale": "7000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 70,
+      "name": "Giáo huyết",
+      "description": "Giáo có lưỡi dài và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
+      "price": "2500",
+      "image": "https://www.example.com/image/giao-huyet.jpg",
+      "category": "giáo chiến",
+      "sale": "3000",
+      "quantity": 12,
+      "rating": {
+        "rate": 4.7,
+        "count": 25
+      }
+    }
+  ,
+    {
+      "id":71,
+      "name": "Súng trường M16",
+      "description": "Một súng bắn tự động đáng tin cậy và đa dạng, phù hợp cho cả ngắn và dài phạm vi.",
+      "price": "2000",
+      "image": "https://github.com/al1103/-/blob/main/sung/AR-15%20Custom%20Assault%20Rifle%20Builder%20(1).jpg?raw=true",
+      "category": "súng trường",
+      "sale": "1800",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.5,
+        "count": 35
+      }
+    },
+    {
+      "id": 72,
+      "name": "Súng Glock 19",
+      "description": "Một súng nhỏ gọn và nhẹ, hoàn hảo cho việc bảo vệ bản thân và ẩn giấu.",
+      "price": "1000",
+      "image": "https://github.com/al1103/-/blob/main/sung/Archillect%20on%20Twitter.png?raw=true",
+      "category": "súng lấy mẫu",
+      "sale": "900",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.3,
+        "count": 25
+      }
+    },
+    {
+      "id": 73,
+      "name": "Súng trường AK-47",
+      "description": "Một súng trường bắn tự động khỏe khoắn và đáng tin cậy, phù hợp cho một loạt các tình huống chiến đấu.",
+      "price": "3000",
+      "image": "https://github.com/al1103/-/blob/main/sung/Archillect%20on%20Twitter.png?raw=true",
+      "category": "súng trường",
+      "sale": "2800",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.8,
+        "count": 30
+      }
+    },
+    {
+      "id": 74,
+      "name": "Súng phun nước Remington 870",
+      "description": "Một súng phun nước mạnh mẽ và đa dạng, hoàn hảo cho săn bắn và bảo vệ nhà cửa.",
+      "price": "1500",
+      "image": "https://github.com/al1103/-/blob/main/sung/FDE%20Raven.jpg?raw=true",
+      "category": "súng phun nước",
+      "sale": "1400",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.6,
+        "count": 25
+      }
+    },
+    {
+      "id": 75,
+      "name": "Súng trường chiến đấu Heckler & Koch G3",
+      "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, rộng rãi được sử dụng bởi các đơn vị quân đội và công an trên toàn thế giới.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/sung/Gunporn.jpg?raw=true",
+      "category": "súng trường chiến đấu",
+      "sale": "2400",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.9,
+        "count": 35
+      }
+    },
+    {
+      "id": 76,
+      "name": "Súng phun nước Mossberg 500",
+      "description": "Một súng phun nước đa năng và khỏe khoắn, phù hợp cho săn bắn và bảo vệ nhà cửa.",
+      "price": "1600",
+      "image": "https://github.com/al1103/-/blob/main/sung/High-quality%20magazine%20speedloader%20manufactured%20in%20the%20USA.jpg?raw=true",
+      "category": "súng phun nước",
+      "sale": "1500",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": 77,
+      "name": "Súng lấy mẫu Beretta 92FS",
+      "description": "Một súng lấy mẫu chính xác và đáng tin cậy, phổ biến với các đơn vị quân đội và công an trên toàn thế giới.",
+      "price": "1200",
+      "image": "https://github.com/al1103/-/blob/main/sung/LANTAC%20USA%20Accessories%20for%20AR15,%20M16%20&%20M4%20Patterned%20Rifles_.jpg?raw=true",
+      "category": "súng lấy mẫu",
+      "sale": "1100",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.8,
+        "count": 35
+      }
+    },
+    {
+      "id": 78,
+      "name": "Súng trường chiến đấu FN FAL",
+      "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được rộng rãi sử dụng trong các cuộc chiến trên toàn thế giới.",
+      "price": "2600",
+      "image": "https://github.com/al1103/-/blob/main/sung/Lantac%20LA-N15%20Raven%20Rifle___.jpg?raw=true",
+      "category": "súng trường chiến đấu",
+      "sale": "2500",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.9,
+        "count": 40
+      }
+    },
+    {
+      "id": 79,
+      "name": "Súng phun nước Benelli M4",
+      "description": "Một súng phun nước mạnh mẽ và đáng tin cậy, phổ biến với các đơn vị quân đội và công an trên toàn thế giới.",
+      "price": "1700",
+      "image": "https://github.com/al1103/-/blob/main/sung/PUBG%20Rifle%20IPhone%20Wallpaper%20-%20IPhone%20Wallpapers.jpg?raw=true",
+      "category": "súng phun nước",
+      "sale": "1600",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 35
+      }
+    },
+    {
+      "id": 80,
+      "name": "Súng lấy mẫu Smith & Wesson M&P",
+      "description": "Một súng lấy mẫu chắc chắn và đa dạng, phổ biến với các đơn vị quân đội và công an trên toàn thế giới.",
+      "price": "1300",
+      "image": "https://github.com/al1103/-/blob/main/sung/Pubg%20wallpaper%20by%20SIMOTHAMI%20-%20Download%20on%20ZEDGE%E2%84%A2%20_%2034e1.jpg?raw=true",
+      "category": "súng lấy mẫu",
+      "sale": "1200",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.6,
+        "count": 40
+      }
+    },
+    {
+      "id": 81,
+      "name": "Súng trường chiến đấu Steyr AUG",
+      "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được sử dụng rộng rãi trong các đội quân đội và công an trên toàn thế giới.",
+      "price": "2700",
+      "image": "https://github.com/al1103/-/blob/main/sung/Reliable%201911%20Magazines.jpg?raw=true",
+      "category": "súng trường chiến đấu",
+      "sale": "2600",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.8,
+        "count": 45
+      }
+    },
+    {
+      "id": 82,
+      "name": "Súng phun nước Mossberg 590A1",
+      "description": "Một súng phun nước mạnh mẽ và đáng tin cậy, phù hợp cho săn bắn và bảo vệ nhà cửa.",
+      "price": "1750",
+      "image": "https://www.example.com/image/mossberg590a1.jpg",
+      "category": "súng phun nước",
+      "sale": "1650",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.7,
+        "count": 40
+      }
+    },
+    {
+      "id": 83,
+      "name": "Súng lấy mẫu Colt 1911",
+      "description": "Một súng lấy mẫu chính xác và đáng tin cậy, được rộng rãi sử dụng trong các đội quân đội và công an trên toàn thế giới.",
+      "price": "1400",
+      "image": "https://github.com/al1103/-/blob/main/sung/SPECIAL%20FORCES.jpg?raw=true",
+      "category": "súng lấy mẫu",
+      "sale": "1300",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.6,
+        "count": 45
+      }
+    },
+    {
+      "id": 84,
+      "name": "Súng trường chiến đấu M16A2",
+      "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, rộng rãi được sử dụng bởi các đội quân đội và công an trên toàn thế giới.",
+      "price": "2800",
+      "image": "https://github.com/al1103/-/blob/main/sung/download%20(2).jpg?raw=true",
+      "category": "súng trường chiến đấu",
+      "sale": "2700",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.9,
+        "count": 50
+      }
+    },
+    {
+      "id": 85,
+      "name": "Súng phun nước Winchester 1200",
+      "description": "Một súng phun nước đa năng và khỏe khoắn, phù hợp cho săn bắn và bảo vệ nhà cửa.",
+      "price": "1800",
+      "image": "https://github.com/al1103/-/blob/main/sung/download%20(3).jpg?raw=true",
+      "category": "súng phun nước",
+      "sale": "1700",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.7,
+        "count": 45
+      }
+    },
+    {
+      "id": 86,
+      "name": "Súng lấy mẫu Glock 17",
+      "description": "Một súng lấy mẫu chắc chắn và đa dạng, phổ biến với các đội quân đội và công an trên toàn thế giới.",
+      "price": "1500",
+      "image": "https://github.com/al1103/-/blob/main/sung/download%20(4).jpg?raw=true",
+      "category": "súng lấy mẫu",
+      "sale": "1400",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.6,
+        "count": 50
+      }
+    },
+    {
+      "id": 87,
+      "name": "Súng trường chiến đấu AK-47",
+      "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được sử dụng rộng rãi trong các đội quân đội và công an trên toàn thế giới.",
+      "price": "2900",
+      "image": "https://github.com/al1103/-/blob/main/sung/download%20(5).jpg?raw=true",
+      "category": "súng trường chiến đấu",
+      "sale": "2800",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.9,
+        "count": 55
+      }
+    },
+    {
+      "id": 88,
+      "name": "Súng phun nước Remington 870",
+      "description": "Một súng phun nước mạnh mẽ và đáng tin cậy, phù hợp cho săn bắn và bảo vệ nhà cửa.",
+      "price": "1900",
+      "image": "https://github.com/al1103/-/blob/main/sung/rvs.jpg?raw=true",
+      "category": "súng phun nước",
+      "sale": "1800",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.7,
+        "count": 50
+      }
+    },
+    {
+      "id": 89,
+      "name": "Súng lấy mẫu Sig Sauer P226",
+      "description": "Một súng lấy mẫu chính xác và đáng tin cậy, được rộng rãi sử dụng trong các đội quân đội và công an trên toàn thế giới.",
+      "price": "1600",
+      "image": "https://github.com/al1103/-/blob/main/sung/universe%20of%20chaos%20(1).jpg?raw=true",
+      "category": "súng lấy mẫu",
+      "sale": "1500",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.6,
+        "count": 55
+      }
+    },
+    {
+      "id": 90,
+      "name": "Súng trường chiến đấu FN SCAR",
+      "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được sử dụng rộng rãi trong các đội quân đội và công an trên toàn thế giới.",
+      "price": "3000",
+      "image": "https://github.com/al1103/-/blob/main/sung/vdvd.jpg?raw=true",
+      "category": "súng trường chiến đấu",
+      "sale": "2900",
+      "quantity": 8,
+      "rating": {
+        "rate": 4.9,
+        "count": 60
+      }
+    }
+,
+    {
+      "id": 91,
+      "name": "Mũ bảo hiểm MSA Gallet F1 XF",
+      "description": "Mũ bảo hiểm chống đạn với khả năng chống nổ và bể vỡ tuyệt đối, hoàn hảo cho các cuộc chiến đấu khẩn cấp.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/mu/MSA%20Gallet%20F1%20XF.jpg?raw=true",
+      "category": "mũ bảo hiểm",
+      "sale": "2200",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.8,
+        "count": 15
+      }
+    },
+    {
+      "id": 92,
+      "name": "Găng tay chống đạn NIJ Level III",
+      "description": "Găng tay chống đạn cấp III theo tiêu chuẩn NIJ, chống được các đạn lục địa và các loại đạn khác.",
+      "price": "1200",
+      "image": "https://github.com/al1103/-/blob/main/gang%20tay/NIJ%20Level%20III.jpg?raw=true",
+      "category": "găng tay chống đạn",
+      "sale": "1000",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 18
+      }
+    },
+    {
+      "id": 94,
+      "name": "Áo giáp cơ giới bảo vệ toàn thân",
+      "description": "Áo giáp cơ giới bảo vệ toàn thân có khả năng chống lại đạn và các vũ khí khác, hoàn hảo cho các hoạt động bảo vệ cá nhân và nhóm.",
+      "price": "3500",
+      "image": "https://github.com/al1103/-/blob/main/ao%20giap/Armor%20X%20Full%20Body%20Armor.jpg?raw=true",
+      "category": "áo giáp cơ giới",
+      "sale": "3000",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.9,
+        "count": 12
+      }
+    },
+    {
+      "id": 95,
+      "name": "Kính thực tế ảo EOTech XPS2",
+      "description": "Kính thực tế ảo EOTech XPS2 có khả năng hiển thị các thông tin quan trọng trên mặt kính, hoàn hảo cho các hoạt động chiến đấu và bảo vệ cá nhân.",
+      "price": "1500",
+      "image": "https://github.com/al1103/-/blob/main/kinh/EOTech%20XPS2.jpg?raw=true",
+      "category": "kính thực tế ảo",
+      "sale": "1300",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 18
+      }
+    },
+    {
+      "id": 96,
+      "name": "Mũ bảo hiểm chống sấm NIJ Level III",
+      "description": "Mũ bảo hiểm chống sấm cấp III theo tiêu chuẩn NIJ, chống được các loại sấm và đạn cơ khí.",
+      "price": "1500",
+      "image": "https://github.com/al1103/-/blob/main/mu/NIJ%20Level%20III%20Helmet.jpg?raw=true",
+      "category": "mũ bảo hiểm",
+      "sale": "1200",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.8,
+        "count": 15
+      }
+    },
+    {
+      "id": 97,
+      "name": "Găng tay chống sấm Dragon Skin SOV-2000",
+      "description": "Găng tay chống sấm Dragon Skin SOV-2000 có khả năng chống lại các loại sấm và đạn cơ khí, hoàn hảo cho các hoạt động bảo vệ cá nhân.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/gang%20tay/Dragon%20Skin%20SOV-2000.jpg?raw=true",
+      "category": "găng tay chống sấm",
+      "sale": "2200",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.8,
+        "count": 12
+      }
+    },
+    {
+      "id": 98,
+      "name": "Áo giáp cơ giới bảo vệ đầu và cổ",
+      "description": "Áo giáp cơ giới bảo vệ đầu và cổ có khả năng chống lại đạn và các vũ khí khác, hoàn hảo cho các hoạt động bảo vệ cá nhân và nhóm.",
+      "price": "3000",
+      "image": "https://github.com/al1103/-/blob/main/ao%20giap/Armor%20X%20Head%20and%20Neck%20Armor.jpg?raw=true",
+      "category": "áo giáp cơ giới",
+      "sale": "2500",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.9,
+        "count": 15
+      }
+    },
+    {
+      "id": 99,
+      "name": "Đai chống đạn chuyên dụng",
+      "description": "Đai chống đạn chuyên dụng có khả năng chống lại các loại đạn cơ khí và súng hút lửa, hoàn hảo cho các hoạt động bảo vệ cá nhân và nhóm.",
+      "price": "1500",
+      "image": "https://github.com/al1103/-/blob/main/dai/Specialized%20Bulletproof%20Belt.jpg?raw=true",
+      "category": "đai chống đạn",
+      "sale": "1200",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id":   100,
+      "name": "Găng tay chống đạn NIJ Level IV",
+      "description": "Găng tay chống đạn cấp IV theo tiêu chuẩn NIJ, chống được các đạn lục địa và các loại đạn khác.",
+      "price": "1400",
+      "image": "https://github.com/al1103/-/blob/main/gang%20tay/NIJ%20Level%20IV.jpg?raw=true",
+      "category": "găng tay chống đạn",
+      "sale": "1200",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.7,
+        "count": 15
+      }
+    },
+    {
+      "id": 101,
+      "name": "Kính thực tế ảo EOTech EXPS3-0",
+      "description": "Kính thực tế ảo EOTech EXPS3-0 có khả năng hiển thị các thông tin quan trọng trên mặt kính, hoàn hảo cho các hoạt động chiến đấu và bảo vệ cá nhân.",
+      "price": "1000",
+      "image": "https://github.com/al1103/-/blob/main/kinh/EOTech%20EXPS3-0.jpg?raw=true",
+      "category": "kính thực tế ảo",
+      "sale": "900",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.8,
+        "count": 15
+      }
+    },
+    {
+      "id": 102,
+      "name": "Áo giáp cơ giới bảo vệ ngực và bụng",
+      "description": "Áo giáp cơ giới bảo vệ ngực và bụng có khả năng chống lại đạn và các vũ khí khác, hoàn hảo cho các hoạt động bảo vệ cá nhân và nhóm.",
+      "price": "3000",
+      "image": "https://github.com/al1103/-/blob/main/ao%20giap/Armor%20X%20Chest%20and%20Abdomen%20Armor.jpg?raw=true",
+      "category": "áo giáp cơ giới",
+      "sale": "2500",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.9,
+        "count": 12
+      }
+    },
+    {
+      "id": 103,
+      "name": "Mũ bảo hiểm chống đạn MSA Gallet F1 XF-CY",
+      "description": "Mũ bảo hiểm chống đạn MSA Gallet F1 XF-CY có khả năng chống nổ và bể vỡ tuyệt đối, hoàn hảo cho các cuộc chiến đấu khẩn cấp.",
+      "price": "2500",
+      "image": "https://github.com/al1103/-/blob/main/mu/MSA%20Gallet%20F1%20XF-CY.jpg?raw=true",
+      "category": "mũ bảo hiểm",
+      "sale": "2200",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.8,
+        "count": 15
+      }
+    },
+    {
+      "id": 104,
+      "name": "Kiểng mắt chống sấm NIJ Level III",
+      "description": "Kiểng mắt chống sấm cấp III theo tiêu chuẩn NIJ, chống được các loại sấm và đạn cơ khí.",
+      "price": "700",
+      "image": "https://github.com/al1103/-/blob/main/kieng/NIJ%20Level%20III%20Eyewear.jpg?raw=true",
+      "category": "kiểng mắt chống sấm",
+      "sale": "600",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.7,
+        "count": 20
+      }
+    },
+
+    {
+      "id": 105,
+      "name": "Áo giáp cơ giới bảo vệ toàn thân IIIA",
+      "description": "Áo giáp cơ giới bảo vệ toàn thân cấp IIIA theo tiêu chuẩn NIJ, chống được các đạn lục địa và các loại đạn khác.",
+      "price": "4000",
+      "image": "https://github.com/al1103/-/blob/main/ao%20giap/Full%20Body%20Armor%20IIIA.jpg?raw=true",
+      "category": "áo giáp cơ giới",
+      "sale": "3500",
+      "quantity": 10,
+      "rating": {
+        "rate": 4.9,
+        "count": 20
+      }
+    },
+    {
+      "id": 106,
+      "name": "Mũ bảo hiểm chống sấm MSA ACH",
+      "description": "Mũ bảo hiểm chống sấm MSA ACH có khả năng chống lại các loại sấm và đạn cơ khí, hoàn hảo cho các hoạt động bảo vệ cá nhân.",
+      "price": "2000",
+      "image": "https://github.com/al1103/-/blob/main/mu/MSA%20ACH.jpg?raw=true",
+      "category": "mũ bảo hiểm",
+      "sale": "1800",
+      "quantity": 15,
+      "rating": {
+        "rate": 4.7,
+        "count": 18
+      }
+    },
+    {
+      "id": 107,
+      "name": "Mũ bảo hiểm chống sấm NIJ Level III",
+      "description": "Mũ bảo hiểm chống sấm cấp III theo tiêu chuẩn NIJ, chống được các loại sấm và đạn cơ khí.",
+      "price": "1500",
+      "image": "https://github.com/al1103/-/blob/main/mu/NIJ%20Level%20III%20Helmet.jpg?raw=true",
+      "category": "mũ bảo hiểm",
+      "sale": "1200",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.8,
+        "count": 15
+      }
+    },
+    {
+      "id": 108,
+      "name": "Găng tay chống sấm NIJ Level III",
+      "description": "Găng tay chống sấm cấp III theo tiêu chuẩn NIJ, chống được các loại sấm và đạn cơ khí.",
+      "price": "1200",
+      "image": "https://github.com/al1103/-/blob/main/gang%20tay/NIJ%20Level%20III.jpg?raw=true",
+      "category": "găng tay chống sấm",
+      "sale": "1000",
+      "quantity": 20,
+      "rating": {
+        "rate": 4.6,
+        "count": 15
+      }
+    },
+    {
+      "id": 109,
+      "name": "Kính thực tế ảo EOTech G33.STS",
+      "description": "Kính thực tế ảo EOTech G33.STS có khả năng hiển thị các thông tin quan trọng trên mặt kính, hoàn hảo cho các hoạt động chiến đấu và bảo vệ cá nhân.",
+      "price": "1000",
+      "image": "https://github.com/al1103/-/blob/main/kinh/EOTech%20G33.STS.jpg?raw=true",
+      "category": "kính thực tế ảo",
+      "sale": "900",
+      "quantity": 25,
+      "rating": {
+        "rate": 4.7,
+        "count": 20
+      }
+    }
+  ],
   "code": [
     {
       "id": 1,
