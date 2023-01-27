@@ -316,7 +316,7 @@
       "sale": "2000",
       "quantity": 15,
       "rating": {
-        "rate": 4.5,
+        "rate": 4,
         "count": 20
       }
     },
@@ -344,7 +344,7 @@
       "sale": "6000",
       "quantity": 35,
       "rating": {
-        "rate": 4.6,
+        "rate": 4,
         "count": 40
       }
     },
@@ -358,7 +358,7 @@
       "sale": "3500",
       "quantity": 10,
       "rating": {
-        "rate": 4.8,
+        "rate": 3,
         "count": 20
       }
     },
@@ -372,7 +372,7 @@
       "sale": "4000",
       "quantity": 15,
       "rating": {
-        "rate": 4.9,
+        "rate": 5,
         "count": 25
       }
     },
@@ -387,7 +387,7 @@
       "sale": "4500",
       "quantity": 20,
       "rating": {
-        "rate": 4.7,
+        "rate": 2,
         "count": 30
       }
     },
@@ -401,7 +401,7 @@
       "sale": "5000",
       "quantity": 30,
       "rating": {
-        "rate": 4.5,
+        "rate": 2,
         "count": 35
       }
     },
@@ -415,7 +415,7 @@
       "sale": "5000",
       "quantity": 25,
       "rating": {
-        "rate": 4.8,
+        "rate": 5,
         "count": 35
       }
     },
@@ -443,7 +443,7 @@
       "sale": "6000",
       "quantity": 35,
       "rating": {
-        "rate": 4.7,
+        "rate": 4,
         "count": 45
       }
     },
@@ -457,7 +457,7 @@
       "sale": "6500",
       "quantity": 40,
       "rating": {
-        "rate": 4.8,
+        "rate": 4,
         "count": 50
       }
     },
@@ -485,7 +485,7 @@
       "sale": "7500",
       "quantity": 45,
       "rating": {
-        "rate": 4.9,
+        "rate": 3,
         "count": 55
       }
     },
@@ -513,7 +513,7 @@
       "sale": "8500",
       "quantity": 50,
       "rating": {
-        "rate": 4.7,
+        "rate": 2,
         "count": 60
       }
     },
@@ -541,7 +541,7 @@
       "sale": "8500",
       "quantity": 55,
       "rating": {
-        "rate": 4.8,
+        "rate": 1,
         "count": 65
       }
     },
@@ -569,7 +569,7 @@
       "sale": "9500",
       "quantity": 60,
       "rating": {
-        "rate": 4.9,
+        "rate": 4,
         "count": 70
       }
     },
