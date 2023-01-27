@@ -1874,7 +1874,7 @@
       "sale": "4500",
       "quantity": 20,
       "rating": {
-        "rate": 4.7,
+        "rate": 3,
         "count": 30
       }
     },
@@ -1888,7 +1888,7 @@
       "sale": "5000",
       "quantity": 30,
       "rating": {
-        "rate": 4.5,
+        "rate": 4,
         "count": 35
       }
     },
@@ -1930,7 +1930,7 @@
       "sale": "6000",
       "quantity": 35,
       "rating": {
-        "rate": 4.7,
+        "rate": 2,
         "count": 45
       }
     },
@@ -1944,7 +1944,7 @@
       "sale": "6500",
       "quantity": 40,
       "rating": {
-        "rate": 4.8,
+        "rate": 5,
         "count": 50
       }
     },
@@ -1958,7 +1958,7 @@
       "sale": "7000",
       "quantity": 40,
       "rating": {
-        "rate": 4.8,
+        "rate": 3,
         "count": 45
       }
     },
@@ -1972,7 +1972,7 @@
       "sale": "7500",
       "quantity": 45,
       "rating": {
-        "rate": 4.9,
+        "rate": 2,
         "count": 55
       }
     },
@@ -1986,7 +1986,7 @@
       "sale": "8000",
       "quantity": 45,
       "rating": {
-        "rate": 4.9,
+        "rate": 4,
         "count": 50
       }
     },
@@ -2014,7 +2014,7 @@
       "sale": "9000",
       "quantity": 55,
       "rating": {
-        "rate": 4.8,
+        "rate": 3,
         "count": 65
       }
     },
@@ -2028,7 +2028,7 @@
       "sale": "8500",
       "quantity": 55,
       "rating": {
-        "rate": 4.8,
+        "rate": 2,
         "count": 65
       }
     },
@@ -2070,7 +2070,7 @@
       "sale": "10000",
       "quantity": 65,
       "rating": {
-        "rate": 4.7,
+        "rate": 5,
         "count": 75
       }
     }
@@ -2086,7 +2086,7 @@
       "sale": "3000",
       "quantity": 15,
       "rating": {
-        "rate": 4.5,
+        "rate": 4,
         "count": 20
       }
     },
@@ -2100,7 +2100,7 @@
       "sale": "6000",
       "quantity": 12,
       "rating": {
-        "rate": 4.7,
+        "rate": 2,
         "count": 25
       }
     },
