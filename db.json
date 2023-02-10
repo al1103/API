@@ -505,7 +505,6 @@
       }
     }
   ,
-    {"category":"áo giáp"},
     {
       "id": 11,
       "name": "Áo giáp cánh tay",
@@ -3411,9 +3410,7 @@
       }
     }
   ,
-  {
-    "súng nè":":(("
-  },
+
     {
       "id":71,
       "name": "Súng trường M16",
@@ -3695,7 +3692,6 @@
       }
     }
 ,
-{"mũ nè" :"h"},
     {
       "id": 91,
       "name": "Mũ bảo hiểm MSA Gallet F1 XF",
