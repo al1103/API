@@ -873,7 +873,7 @@
   ],
   "hammer": [
     {
-      "id": 1,
+      "id": 31,
       "name": "Giáo hoàng kim",
       "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
       "price": "2500",
@@ -887,7 +887,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 32,
       "name": "Giáo đồng",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "5000",
@@ -901,7 +901,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 33,
       "name": "Giáo bạch kim",
       "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
       "price": "7500",
@@ -915,7 +915,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 34,
       "name": "Giáo bạch kim",
       "description": "Giáo bach kim có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "9876",
@@ -929,7 +929,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 35,
       "name": "Giáo bạc",
       "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
       "price": "2500",
@@ -943,7 +943,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 36,
       "name": "Giáo đen",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "5000",
@@ -957,7 +957,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 37,
       "name": "Giáo đỏ",
       "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
       "price": "7500",
@@ -971,7 +971,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 38,
       "name": "Giáo vàng",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "10000",
@@ -985,7 +985,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 39,
       "name": "Giáo địa chấn",
       "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
       "price": "2500",
@@ -1000,7 +1000,7 @@
     },
 
     {
-      "id": 10,
+      "id": 40,
       "name": "Giáo thần",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "5000",
@@ -1014,7 +1014,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 41,
       "name": "Giáo đất",
       "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
       "price": "7500",
@@ -1028,7 +1028,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 42,
       "name": "Giáo trời",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "10000",
@@ -1042,7 +1042,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 43,
       "name": "Giáo hỏa",
       "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
       "price": "2500",
@@ -1056,7 +1056,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 44,
       "name": "Giáo huyết",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "5000",
@@ -1070,7 +1070,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 45,
       "name": "Giáo thiên",
       "description": "Giáo có lưỡi ngắn và mạnh mẽ, phù hợp cho các hoạt động phòng thủ và tấn công.",
       "price": "7500",
@@ -1084,7 +1084,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 46,
       "name": "Giáo tinh",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "10000",
@@ -1098,7 +1098,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 47,
       "name": "Giáo không",
       "description": "Giáo có lưỡi ngắn và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
       "price": "2000",
@@ -1112,7 +1112,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 48,
       "name": "Giáo đồng",
       "description": "Giáo có lưỡi ngắn và dày, phù hợp cho các hoạt động tập luyện kungfu và phòng thủ.",
       "price": "1300",
@@ -1126,7 +1126,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 49,
       "name": "Giáo bạc",
       "description": "Giáo có lưỡi dài và mạnh mẽ, phù hợp cho các hoạt động tấn công và phòng thủ.",
       "price": "4987",
@@ -1140,7 +1140,7 @@
       }
     },
     {
-      "id": 20,
+      "id": 50,
       "name": "Giáo huyết",
       "description": "Giáo có lưỡi dài và nhẹ, phù hợp cho các hoạt động tập luyện kungfu và thể dục.",
       "price": "2500",
@@ -1156,7 +1156,7 @@
   ],
   "gun": [
     {
-      "id": 0,
+      "id": 71,
       "name": "Súng trường M16",
       "description": "Một súng bắn tự động đáng tin cậy và đa dạng, phù hợp cho cả ngắn và dài phạm vi.",
       "price": "2000",
@@ -1170,7 +1170,7 @@
       }
     },
     {
-      "id": 1,
+      "id": 72,
       "name": "Súng Glock 19",
       "description": "Một súng nhỏ gọn và nhẹ, hoàn hảo cho việc bảo vệ bản thân và ẩn giấu.",
       "price": "1000",
@@ -1184,7 +1184,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 73,
       "name": "Súng trường AK-47",
       "description": "Một súng trường bắn tự động khỏe khoắn và đáng tin cậy, phù hợp cho một loạt các tình huống chiến đấu.",
       "price": "3000",
@@ -1198,7 +1198,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 74,
       "name": "Súng phun nước Remington 870",
       "description": "Một súng phun nước mạnh mẽ và đa dạng, hoàn hảo cho săn bắn và bảo vệ nhà cửa.",
       "price": "1500",
@@ -1212,7 +1212,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 75,
       "name": "Súng trường chiến đấu Heckler & Koch G3",
       "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, rộng rãi được sử dụng bởi các đơn vị quân đội và công an trên toàn thế giới.",
       "price": "2500",
@@ -1226,7 +1226,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 76,
       "name": "Súng phun nước Mossberg 500",
       "description": "Một súng phun nước đa năng và khỏe khoắn, phù hợp cho săn bắn và bảo vệ nhà cửa.",
       "price": "1600",
@@ -1240,7 +1240,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 77,
       "name": "Súng lấy mẫu Beretta 92FS",
       "description": "Một súng lấy mẫu chính xác và đáng tin cậy, phổ biến với các đơn vị quân đội và công an trên toàn thế giới.",
       "price": "1200",
@@ -1254,7 +1254,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 78,
       "name": "Súng trường chiến đấu FN FAL",
       "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được rộng rãi sử dụng trong các cuộc chiến trên toàn thế giới.",
       "price": "2600",
@@ -1268,7 +1268,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 79,
       "name": "Súng phun nước Benelli M4",
       "description": "Một súng phun nước mạnh mẽ và đáng tin cậy, phổ biến với các đơn vị quân đội và công an trên toàn thế giới.",
       "price": "1700",
@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 80,
       "name": "Súng lấy mẫu Smith & Wesson M&P",
       "description": "Một súng lấy mẫu chắc chắn và đa dạng, phổ biến với các đơn vị quân đội và công an trên toàn thế giới.",
       "price": "1300",
@@ -1296,7 +1296,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 81,
       "name": "Súng trường chiến đấu Steyr AUG",
       "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được sử dụng rộng rãi trong các đội quân đội và công an trên toàn thế giới.",
       "price": "2700",
@@ -1310,7 +1310,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 82,
       "name": "Súng phun nước Mossberg 590A1",
       "description": "Một súng phun nước mạnh mẽ và đáng tin cậy, phù hợp cho săn bắn và bảo vệ nhà cửa.",
       "price": "1750",
@@ -1324,7 +1324,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 83,
       "name": "Súng lấy mẫu Colt 1911",
       "description": "Một súng lấy mẫu chính xác và đáng tin cậy, được rộng rãi sử dụng trong các đội quân đội và công an trên toàn thế giới.",
       "price": "1400",
@@ -1338,7 +1338,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 84,
       "name": "Súng trường chiến đấu M16A2",
       "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, rộng rãi được sử dụng bởi các đội quân đội và công an trên toàn thế giới.",
       "price": "2800",
@@ -1352,7 +1352,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 85,
       "name": "Súng phun nước Winchester 1200",
       "description": "Một súng phun nước đa năng và khỏe khoắn, phù hợp cho săn bắn và bảo vệ nhà cửa.",
       "price": "1800",
@@ -1366,7 +1366,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 86,
       "name": "Súng lấy mẫu Glock 17",
       "description": "Một súng lấy mẫu chắc chắn và đa dạng, phổ biến với các đội quân đội và công an trên toàn thế giới.",
       "price": "1500",
@@ -1380,7 +1380,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 87,
       "name": "Súng trường chiến đấu AK-47",
       "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được sử dụng rộng rãi trong các đội quân đội và công an trên toàn thế giới.",
       "price": "2900",
@@ -1394,7 +1394,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 88,
       "name": "Súng phun nước Remington 870",
       "description": "Một súng phun nước mạnh mẽ và đáng tin cậy, phù hợp cho săn bắn và bảo vệ nhà cửa.",
       "price": "1900",
@@ -1408,7 +1408,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 89,
       "name": "Súng lấy mẫu Sig Sauer P226",
       "description": "Một súng lấy mẫu chính xác và đáng tin cậy, được rộng rãi sử dụng trong các đội quân đội và công an trên toàn thế giới.",
       "price": "1600",
@@ -1422,7 +1422,7 @@
       }
     },
     {
-      "id": 20,
+      "id": 90,
       "name": "Súng trường chiến đấu FN SCAR",
       "description": "Một súng trường chiến đấu đáng tin cậy và chính xác, được sử dụng rộng rãi trong các đội quân đội và công an trên toàn thế giới.",
       "price": "3000",
