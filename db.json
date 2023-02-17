@@ -3953,15 +3953,15 @@
       "uses": 0,
       "eligible_items": "all",
       "start_date": "2021-01-01",
-      "end_date": "2023-12-31"
+      "end_date": "2022-12-31"
     },
     {
       "id": 2,
       "code": "AL1104",
       "discount": 20,
       "discount_amount": 100000,
-      "max_uses": 30,
-      "uses": 0,
+      "max_uses": 10,
+      "uses": 9,
       "eligible_items": "all",
       "start_date": "2021-01-01",
       "end_date": "2023-12-31"
