@@ -261,10 +261,30 @@
     }
   ],
   "users": [
-    {
+     {
       "id": 1,
-      "name": "chube",
-      "email": "chube@gmail.com"
+      "username": "john",
+      "password": "password123",
+      "email": "john@example.com",
+      "id_user": 1,
+      "products": [
+        {
+          "id": 1,
+          "name": "Product 1",
+          "description": "This is product 1",
+          "price": 100,
+          "image": "https://example.com/product1.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "name": "Product 2",
+          "description": "This is product 2",
+          "price": 200,
+          "image": "https://example.com/product2.jpg",
+          "quantity": 1
+        }
+      ]
     }
    
   ],
